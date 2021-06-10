@@ -9,3 +9,9 @@ db.sqlite3
 
 # Migrations
 blog/migrations
+
+# Creadentials
+.env
+
+# Static files
+files/
